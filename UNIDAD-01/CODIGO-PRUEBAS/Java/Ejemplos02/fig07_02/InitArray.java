@@ -6,7 +6,7 @@ public class InitArray {
       // declare variable array and initialize it with an array object
       int[] array = new int[10]; // create the array object           
 
-      System.out.printf("%s%8s%n", "Index", "Value"); // column headings
+      System.out.printf("%s%8s%n", "Index noelia", "Value"); // column headings
    
       // output each array element's value                      
       for (int counter = 0; counter < array.length; counter++) {
